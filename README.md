@@ -34,7 +34,9 @@ So, unitl I can soldify IP & Ownership Rights, I must Protect My Brainchildren T
 │   └── documentation/       # Methodologies, protocols, and compliance records
 ├── ethics_narrative/
 │   ├── reflections.md       # Ongoing narrative, ethical analysis, and commentary
-│   └── compliance.md        # Compliance checklists & IP rights documentation
+│   ├── compliance.md        # Compliance checklists & IP rights documentation
+│   ├── cognitive_assessment.md  # Cognitive profile, scenario responses, and personal philosophy
+│   └── I_Am_Trying_But_IDKAM    # Cross-repository references and truth assessment
 └── LICENSE                  # Licensing and rights statement
 ```
 
